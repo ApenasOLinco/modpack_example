@@ -1,0 +1,43 @@
+[
+  {
+    "id": "mr_dungeons_andtaverns",
+    "name": "Dungeons and Taverns",
+    "version": "1-v4.4.4",
+    "description": "A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world.",
+    "dependencies": [
+      {
+        "id": "fabric-resource-loader-v0",
+        "version": "*",
+        "mandatory": true
+      }
+    ]
+  },
+  {
+    "id": "ambientsounds",
+    "name": "AmbientSounds",
+    "version": "6.2.0",
+    "description": "Expands minecraft\u0027s ambient sounds.",
+    "dependencies": [
+      {
+        "id": "fabricloader",
+        "version": "\u003e\u003d0.15.11",
+        "mandatory": true
+      },
+      {
+        "id": "fabric-api",
+        "version": "*",
+        "mandatory": true
+      },
+      {
+        "id": "minecraft",
+        "version": "\u003e\u003d1.21",
+        "mandatory": true
+      },
+      {
+        "id": "creativecore",
+        "version": "\u003e\u003d2.13.0",
+        "mandatory": true
+      }
+    ]
+  }
+]
