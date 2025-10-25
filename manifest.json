@@ -1,1 +1,830 @@
-
+[
+  {
+    "id": "almanac",
+    "name": "Almanac",
+    "version": "1.0.2",
+    "description": "Loader independent library mod for frikinjay\u0027s mods"
+  },
+  {
+    "id": "jadeaddons",
+    "name": "Jade Addons",
+    "version": "6.0.3+fabric",
+    "description": "Jade\u0027s additional mod supports for Fabric."
+  },
+  {
+    "id": "structure_layout_optimizer",
+    "name": "Structure Layout Optimizer",
+    "version": "1.0.10",
+    "description": "An attempt at optimizing jigsaw generation"
+  },
+  {
+    "id": "forgeconfigapiport",
+    "name": "Forge Config API Port",
+    "version": "21.1.4",
+    "description": "NeoForge\u0027s \u0026 Forge\u0027s config systems provided to other modding ecosystems. Designed for a multiloader architecture."
+  },
+  {
+    "id": "async",
+    "name": "Async",
+    "version": "0.1.7+alpha.7-1.21.1",
+    "description": "Async-Minecraft Entity Multi-Threading Mod"
+  },
+  {
+    "id": "cardinal-components",
+    "name": "Cardinal Components API",
+    "version": "6.1.2",
+    "description": "Attaching more data to various game objects"
+  },
+  {
+    "id": "resourcefulconfig",
+    "name": "Resourcefulconfig",
+    "version": "3.0.11",
+    "description": ""
+  },
+  {
+    "id": "lithium",
+    "name": "Lithium",
+    "version": "0.15.0+mc1.21.1",
+    "description": "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game."
+  },
+  {
+    "id": "fastboot",
+    "name": "FastBoot",
+    "version": "1.3",
+    "description": "FastBoot optimizes Minecraft startup time by skipping unnecessary DataFixer initialization steps"
+  },
+  {
+    "id": "libipn",
+    "name": "libIPN",
+    "version": "6.5.1",
+    "description": "Inventory Profiles Next GUI Library"
+  },
+  {
+    "id": "krypton",
+    "name": "Krypton",
+    "version": "0.2.8",
+    "description": "A Fabric mod that optimizes the Minecraft networking stack and entity tracker."
+  },
+  {
+    "id": "ironchest",
+    "name": "Iron Chests",
+    "version": "2.0.4",
+    "description": "Bigger Chests for Minecraft"
+  },
+  {
+    "id": "skin_changer",
+    "name": "Skin Changer",
+    "version": "0.9.2",
+    "description": "This mod allows you to change your Minecraft server skin on the fly even if it is in offline mode."
+  },
+  {
+    "id": "infinite-music",
+    "name": "Infinite Music",
+    "version": "0.4.6",
+    "description": "Removes the delay between music tracks."
+  },
+  {
+    "id": "aether",
+    "name": "The Aether",
+    "version": "1.5.9",
+    "description": "The Aether Team presents the original Aether mod! Up to date for modern Minecraft versions and fully compatible with multiplayer. The Aether is a dimension of floating islands high in the sky. Ascend through a Glowstone portal and begin a new survival adventure packed with new ores, mythical creatures and perilous Dungeons!"
+  },
+  {
+    "id": "streamotes",
+    "name": "Streamotes",
+    "version": "1.2.12+1.21",
+    "description": "Adds popular stream emotes to the Minecraft chat. Supports Twitch, BTTV, FFZ and 7tv emotes."
+  },
+  {
+    "id": "sparsestructures",
+    "name": "SparseStructures",
+    "version": "3.0",
+    "description": "Makes all structures more spread out. Configurable.\n\nIf you want to support me, you can use code MAX at BisectHosting for 25% off!"
+  },
+  {
+    "id": "treechop",
+    "name": "HT\u0027s TreeChop",
+    "version": "0.19.3a",
+    "description": "Makes trees more choppable."
+  },
+  {
+    "id": "travelersbackpack",
+    "name": "Traveler\u0027s Backpack",
+    "version": "10.1.24",
+    "description": "Unique and upgradeable backpacks with customisation, Trinkets/Accessories integration and more!"
+  },
+  {
+    "id": "iceberg",
+    "name": "Iceberg",
+    "version": "1.3.2",
+    "description": "A library containing events, helpers, and utilities to make modding easier."
+  },
+  {
+    "id": "subtle_effects",
+    "name": "Subtle Effects",
+    "version": "1.12.1",
+    "description": "Adding many new subtle details through particles and a few sounds"
+  },
+  {
+    "id": "totw_modded",
+    "name": "Towers of the Wild Modded",
+    "version": "fabric-1.21-1.0.8",
+    "description": "This is an example description! Tell everyone what your mod is about!"
+  },
+  {
+    "id": "mob-ai-tweaks",
+    "name": "Mob AI Tweaks",
+    "version": "1.8.6",
+    "description": "Tweaks certain mob AIs and reworks the Wither and Ender Dragon"
+  },
+  {
+    "id": "yeetusexperimentus",
+    "name": "Yeetus Experimentus",
+    "version": "87.0.0",
+    "description": "Disables the Experimental Settings popup, which appears when you create or load world."
+  },
+  {
+    "id": "particular",
+    "name": "Particular",
+    "version": "1.1.2+1.21",
+    "description": "Enhances Minecraft\u0027s ambience with hand-crafted visual effects like fireflies, falling leaves, and waterfall cascades"
+  },
+  {
+    "id": "mru",
+    "name": "M.R.U",
+    "version": "1.0.19+LTS+1.21.1+fabric",
+    "description": "A library mod which provides various utilities for IMB11\u0027s mods."
+  },
+  {
+    "id": "extrasounds",
+    "name": "ExtraSounds Next",
+    "version": "1.4",
+    "description": "Improve your clicks, scrolls and more with Extra Sounds."
+  },
+  {
+    "id": "ohthetreesyoullgrow",
+    "name": "Oh The Trees You\u0027ll Grow",
+    "version": "5.0.14",
+    "description": "A Minecraft library that aims to give users incredible configurability by allowing the creation of trees with Minecraft\u0027s structure template `.nbt` files."
+  },
+  {
+    "id": "emotecraft",
+    "name": "Emotecraft",
+    "version": "2.4.12",
+    "description": "Play emotes in Minecraft\nOpen the menu to setup your fast-choose wheel\n\nYou can add custom emotes, and you can play these even if nobody else has them\n\nSpecial thanks:\nKale Ko for creating emotes and help in the UI design\nOrsond for inspiring me and providing CollarMC\nArchitectury for the Forge build tools"
+  },
+  {
+    "id": "cameraoverhaul",
+    "name": "CameraOverhaul",
+    "version": "2.0.4-fabric+mc.1.21.0-1.21.2",
+    "description": "CameraOverhaul is a highly configurable clientside Minecraft mod that attempts to improve overall satisfaction of the game through the introduction of various camera rotations, emphasizing on the player\u0027s movement and improving visual feedback.\nStrafing and turning around will tilt the camera sideways. Jumping, falling, and moving forward or backwards will affect the camera\u0027s pitch.\nNearby explosions will shake the screen, and ceasing movement for enough time will cause the camera to gently sway around while waiting for your input.\n\nConfigurable through GUIs as well as the \u0027.minecraft/config/cameraoverhaul.toml\u0027 file."
+  },
+  {
+    "id": "cavedust",
+    "name": "Cave Dust",
+    "version": "3.0.1",
+    "description": "Makes dust underground that scales with depth!"
+  },
+  {
+    "id": "fzzy_config",
+    "name": "Fzzy Config",
+    "version": "0.7.2+1.21",
+    "description": "Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more."
+  },
+  {
+    "id": "geckolib",
+    "name": "GeckoLib 4",
+    "version": "4.7.7",
+    "description": "GeckoLib is an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more."
+  },
+  {
+    "id": "tide",
+    "name": "Tide",
+    "version": "1.6.3",
+    "description": "This mod aims to enhance and expand the vanilla fishing system by adding new fish, mechanics, and rewards."
+  },
+  {
+    "id": "cupboard",
+    "name": "cupboard",
+    "version": "1.21-2.9",
+    "description": ""
+  },
+  {
+    "id": "mr_vanilla_refresh",
+    "name": "Vanilla Refresh",
+    "version": "1.4.26",
+    "description": "Enhancing Minecraft\u0027s experience with a variety of 30+ QOL features, like player sitting and a day counter."
+  },
+  {
+    "id": "creativecore",
+    "name": "CreativeCore",
+    "version": "2.13.5",
+    "description": "A simple but powerful coremod."
+  },
+  {
+    "id": "voicechat",
+    "name": "Simple Voice Chat",
+    "version": "1.21.1-2.5.35",
+    "description": "A working voice chat in Minecraft!"
+  },
+  {
+    "id": "farmersdelight",
+    "name": "Farmer\u0027s Delight",
+    "version": "1.21.1-3.2.0+refabricated",
+    "description": "A cozy expansion to farming and cooking!"
+  },
+  {
+    "id": "prickle",
+    "name": "PrickleMC",
+    "version": "21.1.11",
+    "description": "Bringing Prickle, the JSON based configuration file format to Minecraft."
+  },
+  {
+    "id": "balm",
+    "name": "Balm",
+    "version": "21.0.49",
+    "description": "Abstraction Layer (but not really) for Blay\u0027s multiplatform mods"
+  },
+  {
+    "id": "packetfixer",
+    "name": "Packet Fixer",
+    "version": "3.3.0",
+    "description": "A simple mod to solve various problems with packets/NBT\u0027s."
+  },
+  {
+    "id": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "21.1.8",
+    "description": "Adds descriptions of enchantment effects to their descriptions."
+  },
+  {
+    "id": "watut",
+    "name": "What Are They Up To",
+    "version": "1.21.0-1.2.7",
+    "description": "Lets you see if players are typing, in a GUI, idle, with cool ingame visuals"
+  },
+  {
+    "id": "ante",
+    "name": "Anvil Never Too Expensive",
+    "version": "1.2.1",
+    "description": "This lightweight Forge mod removes the Too Expensive! message that appears in anvils when the XP cost goes above 40 levels. No longer will perfectly fine equip go to waste because the game limits your possibilities!"
+  },
+  {
+    "id": "dynamiccrosshair",
+    "name": "Dynamic Crosshair",
+    "version": "9.8",
+    "description": "Dynamic Crosshair that changes shape based on what is targeted"
+  },
+  {
+    "id": "fallingleaves",
+    "name": "Falling Leaves",
+    "version": "1.17.1",
+    "description": "\"How the gentle wind \nbeckons through the leaves \nas autumn colors fall,\ndancing in a swirl \nof golden memories:\nthe loveliest lies of all.\""
+  },
+  {
+    "id": "visualworkbench",
+    "name": "Visual Workbench",
+    "version": "21.1.1",
+    "description": "Items stay inside crafting tables and are also rendered on top. It\u0027s really fancy!"
+  },
+  {
+    "id": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "version": "3.7.1+1.21.1-fabric",
+    "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft."
+  },
+  {
+    "id": "lithostitched",
+    "name": "Lithostitched",
+    "version": "1.4.11",
+    "description": "Library mod with new configurability and compatibility enhancements for worldgen."
+  },
+  {
+    "id": "moreculling",
+    "name": "More Culling",
+    "version": "1.0.6",
+    "description": "Processes main resources."
+  },
+  {
+    "id": "flow",
+    "name": "Flow",
+    "version": "2.2.0+1.21",
+    "description": "Inventory open/close transitions."
+  },
+  {
+    "id": "hangglider",
+    "name": "Hang Glider",
+    "version": "21.1.0",
+    "description": "Soar through the skies and explore the world\u0027s beauty with your brand-new hang glider!"
+  },
+  {
+    "id": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "2.1.11",
+    "description": "Inventory under your control. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more."
+  },
+  {
+    "id": "architectury",
+    "name": "Architectury",
+    "version": "13.0.8",
+    "description": "A intermediary api aimed to ease developing multiplatform mods."
+  },
+  {
+    "id": "modmenu",
+    "name": "Mod Menu",
+    "version": "11.0.3",
+    "description": "Adds a mod menu to view the list of mods you have installed."
+  },
+  {
+    "id": "collective",
+    "name": "Collective",
+    "version": "8.3",
+    "description": "Collective is a shared library with common code for all of Serilum\u0027s mods."
+  },
+  {
+    "id": "c2me",
+    "name": "Concurrent Chunk Management Engine",
+    "version": "0.3.0+alpha.0.320+1.21.1",
+    "description": "A Fabric mod designed to improve the chunk performance of Minecraft."
+  },
+  {
+    "id": "plushie_buddies",
+    "name": "Plushie Buddies",
+    "version": "0.1.6-1.21.1",
+    "description": "This is a Plushie Buddies Mod made by Subthy :)"
+  },
+  {
+    "id": "simplehats",
+    "name": "SimpleHats",
+    "version": "0.4.0",
+    "description": "Adds simple, customizable, cosmetic hats."
+  },
+  {
+    "id": "bettercombat",
+    "name": "Better Combat",
+    "version": "2.2.4+1.21.1",
+    "description": "Easy, spectacular and fun melee combat system from Minecraft Dungeons."
+  },
+  {
+    "id": "modernfix",
+    "name": "ModernFix",
+    "version": "5.24.3+mc1.21.1",
+    "description": "Egregious, yet effective performance improvements for modern Minecraft"
+  },
+  {
+    "id": "continuity",
+    "name": "Continuity",
+    "version": "3.0.0+1.21",
+    "description": "Continuity is a Fabric mod that allows resource packs that use the OptiFine connected textures format, OptiFine emissive textures format (only for blocks and item models), or OptiFine custom block layers format to work without OptiFine."
+  },
+  {
+    "id": "octolib",
+    "name": "OctoLib",
+    "version": "0.6.0.4",
+    "description": "Collection of shared code for OctoStudios\u0027 mods"
+  },
+  {
+    "id": "horseman",
+    "name": "Horseman",
+    "version": "1.5.4",
+    "description": "Improved horses: faster hitching, smooth riding, QOL features and more."
+  },
+  {
+    "id": "immersiveui",
+    "name": "ImmersiveUI",
+    "version": "0.3.3",
+    "description": "Makes your UI flashy :D"
+  },
+  {
+    "id": "mr_dungeons_andtaverns",
+    "name": "Dungeons and Taverns",
+    "version": "1-v4.4.4",
+    "description": "A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world."
+  },
+  {
+    "id": "perception",
+    "name": "Perception",
+    "version": "0.1.6",
+    "description": "Enriching the world with immersive visual effects"
+  },
+  {
+    "id": "explosiveenhancement",
+    "name": "Explosive Enhancement",
+    "version": "1.3.2-1.21-1.21.1",
+    "description": "Enhancing the explosion animation since 2023."
+  },
+  {
+    "id": "musicnotification",
+    "name": "Music Notification",
+    "version": "2.1.0",
+    "description": "Add toast notification when music is played in game with the name. And play music any time you want."
+  },
+  {
+    "id": "immersive_melodies",
+    "name": "Immersive Melodies",
+    "version": "0.6.2+1.21.1",
+    "description": "Play custom melodies on various instruments and annoy your friends!"
+  },
+  {
+    "id": "prism",
+    "name": "root project \u0027Prism\u0027",
+    "version": "1.0.11",
+    "description": "A library all about color! Provides lots of color-related functionality for dependent mods."
+  },
+  {
+    "id": "noisium",
+    "name": "Noisium",
+    "version": "2.3.0+mc1.21-1.21.1",
+    "description": "Optimises worldgen performance for a better gameplay experience."
+  },
+  {
+    "id": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.8.2",
+    "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible."
+  },
+  {
+    "id": "bountifulfares",
+    "name": "Bountiful Fares",
+    "version": "3.0.2",
+    "description": "Adds new content to the food and farming side of Minecraft!"
+  },
+  {
+    "id": "fullscreenfix",
+    "name": "Borderless Fullscreen",
+    "version": "2.2.1",
+    "description": "Borderless Fullscreen"
+  },
+  {
+    "id": "atg",
+    "name": "Attack Through Grass",
+    "version": "2.0.1",
+    "description": "Allow users to attack entities through grass and any other non-collidable object."
+  },
+  {
+    "id": "moonlight",
+    "name": "Moonlight Lib",
+    "version": "1.21-2.23.6",
+    "description": "A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules, data driven trades and Map Markers, simple multi loader utilities and more"
+  },
+  {
+    "id": "cloth-config",
+    "name": "Cloth Config v15",
+    "version": "15.0.140",
+    "description": "An API for config screens."
+  },
+  {
+    "id": "owo",
+    "name": "oωo",
+    "version": "0.12.15.4+1.21",
+    "description": "yes its bad i know thanks"
+  },
+  {
+    "id": "itemphysiclite",
+    "name": "ItemPhysicLite",
+    "version": "1.6.8",
+    "description": "Enhances the rendering of items."
+  },
+  {
+    "id": "mr_enchants_tobooks",
+    "name": "Enchantments to Books",
+    "version": "1.2.4",
+    "description": "Transfer enchantments from tools to books with a fully customizable datapack"
+  },
+  {
+    "id": "puzzleslib",
+    "name": "Puzzles Lib",
+    "version": "21.1.38",
+    "description": "Why it\u0027s called Puzzles, you ask? That\u0027s the puzzle!"
+  },
+  {
+    "id": "waystones",
+    "name": "Waystones",
+    "version": "21.1.22",
+    "description": "Teleport back to activated waystones. For Survival, Adventure or Servers."
+  },
+  {
+    "id": "txnilib",
+    "name": "TxniLib",
+    "version": "1.0.24",
+    "description": "Yet Another Library Mod"
+  },
+  {
+    "id": "immersive_optimization",
+    "name": "Immersive Optimization",
+    "version": "0.0.5",
+    "description": "A lightweight entity-tick-scheduler for doubling your TPS."
+  },
+  {
+    "id": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.26",
+    "description": "A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."
+  },
+  {
+    "id": "villagernames",
+    "name": "Villager Names",
+    "version": "8.2",
+    "description": "Gives all villagers and villager-like entities their own name."
+  },
+  {
+    "id": "scalablelux",
+    "name": "ScalableLux",
+    "version": "0.1.0.1+fabric.d0d58ab",
+    "description": "Rewrites the light engine to fix lighting performance and lighting errors"
+  },
+  {
+    "id": "highlighter",
+    "name": "Highlighter",
+    "version": "1.1.11",
+    "description": "Highlights newly picked-up items in your inventory."
+  },
+  {
+    "id": "lambdynlights",
+    "name": "LambDynamicLights",
+    "version": "4.1.6+1.21.1",
+    "description": "The most feature-complete dynamic lighting mod for Fabric."
+  },
+  {
+    "id": "trinkets",
+    "name": "Trinkets",
+    "version": "3.10.0",
+    "description": "Adds a data-driven accessory system to Minecraft"
+  },
+  {
+    "id": "modernui",
+    "name": "Modern UI",
+    "version": "3.12.0.2",
+    "description": "    Modern desktop framework from low-level 3D graphics API to high-level view model, for development of 2D/3D rendering software or game engine, with internationalization support and many new technologies.\n    Modern UI is a desktop application framework designed for standalone 2D and 3D rendering software development. It makes use of modern 3D graphical APIs and technologies to provide high real-time rendering performance. For good measure, Modern UI improves and optimizes a set of features used by Android and its own set of internationalization supporting text layout engine meeting Unicode specification.\n    This version is an official version that extends to Minecraft and Fabric, which combines Modern UI with Minecraft and provides a large number of additional features and modding APIs."
+  },
+  {
+    "id": "sodium-extra",
+    "name": "Sodium Extra",
+    "version": "0.6.0+mc1.21.1",
+    "description": "Features that shouldn\u0027t be in Sodium."
+  },
+  {
+    "id": "itemborders",
+    "name": "Item Borders",
+    "version": "1.2.5",
+    "description": "Adds colored borders around items to indicate rarity."
+  },
+  {
+    "id": "rightclickharvest",
+    "name": "Right Click Harvest",
+    "version": "4.5.3+1.21.1",
+    "description": "Right click crops to harvest them - with style."
+  },
+  {
+    "id": "jei",
+    "name": "Just Enough Items",
+    "version": "19.22.1.316",
+    "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance."
+  },
+  {
+    "id": "nullscape",
+    "name": "Nullscape",
+    "version": "1.2.13",
+    "description": "Transforms the boring Vanilla end into an alien dimension with the most surreal terrain imaginable. Topped with a couple of new biomes to add to the experience, whilst keeping the end desolate."
+  },
+  {
+    "id": "lootr",
+    "name": "Lootr",
+    "version": "1.21-1.10.35.91",
+    "description": "A mod that makes it so nobody misses out on Loot!"
+  },
+  {
+    "id": "fishingreal",
+    "name": "FishingReal",
+    "version": "1.9.1",
+    "description": "A mod which allows you to reel in real fish instead of the fish in item form."
+  },
+  {
+    "id": "playeranimator",
+    "name": "Player Animator",
+    "version": "2.0.1+1.21.1",
+    "description": "A lightweight library to easily animate the player"
+  },
+  {
+    "id": "animal_feeding_trough",
+    "name": "Animal Feeding Trough",
+    "version": "1.1.2+1.21.1",
+    "description": "-"
+  },
+  {
+    "id": "artifacts",
+    "name": "Artifacts",
+    "version": "13.0.7",
+    "description": "Adds various new powerful uncraftable items to make exploration a bit more interesting"
+  },
+  {
+    "id": "jamlib",
+    "name": "JamLib",
+    "version": "1.3.5+1.21.1",
+    "description": "The platform-agnostic library used in all of JamCore\u0027s mods"
+  },
+  {
+    "id": "notenoughanimations",
+    "name": "NotEnoughAnimations",
+    "version": "1.10.2",
+    "description": "Adding and improving animations in Third-Person."
+  },
+  {
+    "id": "talkingheads",
+    "name": "Talking Heads",
+    "version": "1.0.6",
+    "description": "Client-Side Fabric mod (addon) for PlasmoVoice \u0026 SimpleVoiceChat, that scales player heads when they\u0027re talking."
+  },
+  {
+    "id": "care_to_share",
+    "name": "Care to Share",
+    "version": "1.1+1.21",
+    "description": "Skip the annoying (\u0026 rude) item dropping and gift to your friends instead!"
+  },
+  {
+    "id": "duckling",
+    "name": "Duckling",
+    "version": "5.0.1",
+    "description": "Adds some quacky little friends!\nQuacking Sounds - freesoundslibrary.com/duck-quack/\nNote: Sounds were edited out and pitched up and down."
+  },
+  {
+    "id": "betterthirdperson",
+    "name": "Better Third Person",
+    "version": "1.9.0",
+    "description": "Adds independent camera rotation for third-person view"
+  },
+  {
+    "id": "badoptimizations",
+    "name": "BadOptimizations",
+    "version": "2.3.0",
+    "description": "Optimization mod that focuses on things other than rendering"
+  },
+  {
+    "id": "coroutil",
+    "name": "CoroUtil",
+    "version": "1.21.1-1.3.8",
+    "description": "It utils"
+  },
+  {
+    "id": "firstperson",
+    "name": "FirstPerson",
+    "version": "2.5.0",
+    "description": "Enables the third person Model in firstperson"
+  },
+  {
+    "id": "sounds",
+    "name": "Sounds",
+    "version": "2.4.13.1+lts+1.21.1+fabric",
+    "description": "A highly configurable sound overhaul mod that adds new sound effects while improving vanilla sounds too."
+  },
+  {
+    "id": "nexuslib",
+    "name": "NexusLib",
+    "version": "1.1.2",
+    "description": "A library mod featuring some useful helpers and systems"
+  },
+  {
+    "id": "sound_physics_remastered",
+    "name": "Sound Physics Remastered",
+    "version": "1.21.1-1.4.10",
+    "description": "Provides realistic sound attenuation, reverberation, and absorption through blocks."
+  },
+  {
+    "id": "abridged",
+    "name": "Abridged",
+    "version": "2.0.0",
+    "description": "Bridges big and small across rivers."
+  },
+  {
+    "id": "ferritecore",
+    "name": "FerriteCore",
+    "version": "7.0.2-hotfix",
+    "description": "Reduces memory usage"
+  },
+  {
+    "id": "fastasyncworldsave",
+    "name": "fastasyncworldsave Mod",
+    "version": "1.21-2.6",
+    "description": ""
+  },
+  {
+    "id": "yigd",
+    "name": "You\u0027re in Grave Danger",
+    "version": "2.4.18",
+    "description": "Adds graves and some other stuff to the game"
+  },
+  {
+    "id": "jade",
+    "name": "Jade",
+    "version": "15.10.2+fabric",
+    "description": "Minecraft mod shows what you are looking at. (Hwyla fork)"
+  },
+  {
+    "id": "particle_core",
+    "name": "Particle Core",
+    "version": "0.2.6+1.21",
+    "description": "Particle optimizations. Particle culling, rendering optimization, and configurable disabling of particles."
+  },
+  {
+    "id": "bookshelf",
+    "name": "Bookshelf",
+    "version": "21.1.69",
+    "description": "Bookshelf is a library mod that provides code, frameworks, and utilities for other mods. Many mods make use of Bookshelf and are powered by its code."
+  },
+  {
+    "id": "smarterfarmers",
+    "name": "Smarter Farmers",
+    "version": "1.21-2.2.3",
+    "description": "Makes Farmer Villagers smarter!"
+  },
+  {
+    "id": "ok_zoomer",
+    "name": "Ok Zoomer",
+    "version": "10.0.0-beta.10",
+    "description": "A zoom mod that is powerful, lean, and pretty customizable. The zoom is yours!"
+  },
+  {
+    "id": "ambientsounds",
+    "name": "AmbientSounds",
+    "version": "6.2.0",
+    "description": "Expands minecraft\u0027s ambient sounds."
+  },
+  {
+    "id": "fabric-language-kotlin",
+    "name": "Fabric Language Kotlin",
+    "version": "1.13.5+kotlin.2.2.10",
+    "description": "Fabric language module for Kotlin."
+  },
+  {
+    "id": "appleskin",
+    "name": "AppleSkin",
+    "version": "3.0.6+mc1.21",
+    "description": "Adds various food-related HUD improvements"
+  },
+  {
+    "id": "fabric-api",
+    "name": "Fabric API",
+    "version": "0.116.6+1.21.1",
+    "description": "Core API module providing key hooks and intercompatibility features."
+  },
+  {
+    "id": "hardcorerevival",
+    "name": "Hardcore Revival",
+    "version": "21.1.8",
+    "description": "Help your friends back up after they die (if you can make it in time)."
+  },
+  {
+    "id": "patpat",
+    "name": "PatPat",
+    "version": "1.2.2+1.21.1",
+    "description": "Simple Client and (Optional) Server side Fabric mod for patting any (living) mobs!"
+  },
+  {
+    "id": "sodium",
+    "name": "Sodium",
+    "version": "0.6.13+mc1.21.1",
+    "description": "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues"
+  },
+  {
+    "id": "redirected",
+    "name": "Redirected",
+    "version": "1.0.0",
+    "description": "Memory optimization mod that prevents duplication of Enum values."
+  },
+  {
+    "id": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "version": "1.6.6+1.21.1",
+    "description": "Speed up and optimize immediate mode rendering in Minecraft"
+  },
+  {
+    "id": "woodlands_extra",
+    "name": "Woodlands: Extra",
+    "version": "1.21.1-1.3.3",
+    "description": "Most vanilla biomes overhaul + 42 new biomes, that will make the world look much more realistic and diverse"
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "version": "1.8.8+mc1.21.1",
+    "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs"
+  },
+  {
+    "id": "ctov",
+    "name": "ChoiceTheorem\u0027s Overhauled Village",
+    "version": "3.5.10",
+    "description": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world."
+  },
+  {
+    "id": "letmedespawn",
+    "name": "Let Me Despawn",
+    "version": "1.5.0",
+    "description": "Tweaks mob despawn rules to prevent accidental persistent mobs to increase performance."
+  },
+  {
+    "id": "chatanimation",
+    "name": "ChatAnimation",
+    "version": "1.0.6",
+    "description": "Adds animations to the chat."
+  }
+]
